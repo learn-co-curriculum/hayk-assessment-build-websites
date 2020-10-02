@@ -1,5 +1,7 @@
+Hayk Build Assessment Website helps to
 Create a landing page for a company/business of your choice, real or imaginary. Write your code in the index.html and main.css files in this directory.
 
+  GETTING STARTED >> 
 Create the landing page from the screenshot below, given the following constraints:
 
 * The layout should be done with grid or flexbox.
